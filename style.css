@@ -1,0 +1,9 @@
+.navbar{
+    background-color: rgb(2, 2, 68);
+}
+.navbar-brand,.nav-link{
+    color: white !important;
+}
+.footer{
+    background-color: rgb(2, 2, 68);
+}
